@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 redis:alpine3.20
 sonatype/nexus3:latest
+redis:7.4-rc2-alpine3.20
